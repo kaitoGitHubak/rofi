@@ -1,0 +1,8 @@
+rofi.modi:  window,drun,system:~/.config/rofi/rofi_launch.sh,combi,ssh
+rofi.sidebar-mode:  true
+rofi.hide-scrollbar: true
+rofi.kb-cancel: Escape,Control+bracketleft
+rofi.kb-mode-previous: Alt+n
+rofi.kb-mode-next: Alt+p
+rofi.font: Cica 17
+rofi.theme: /usr/share/rofi/themes/Arc-Dark.rasi
